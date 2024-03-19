@@ -61,6 +61,10 @@ header h1 {
   outline: none;
 }
 
+.form-control {
+  margin-top: 15px;
+}
+
 /* Buttons */
 .btn {
   background-color: #333;
