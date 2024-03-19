@@ -12,6 +12,6 @@ This project was created to focus on working with the DOM, events, state, local 
 
 ## Lessons Learned:
 
-whoa this is awesome, i actually did it, i now understood the use of Event Delegation over Multiple Elements.
+whoa this is awesome, i actually did it, i now understood the use of Event Delegation over Multiple Elements...
 
 <img src="images/screen.png" width="400">
